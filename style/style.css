@@ -118,7 +118,7 @@ span {
 .playercard,
 .computerrecord {
     width: 250px;
-    height: 120px;
+    height: 150px;
     font-size: 1.7rem;
     color: #f32180;
     box-shadow: 0 0 10px #f32180, 0 0 40px #f32180, 0 0 80px #f32180;
@@ -134,7 +134,7 @@ span {
 
 #co-Points,
 #pl_points {
-    margin-top: 15px;
+    margin-top: 35px;
 }
 
 h3 {
