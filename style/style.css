@@ -50,7 +50,10 @@ img {
 .btn {
     margin: 40px 0 40px 0;
 }
-
+.btn #paper{
+    margin-left: 100px;
+    margin-right: 100px;
+}
 .btn button,
 .ok button,
 .no button {
